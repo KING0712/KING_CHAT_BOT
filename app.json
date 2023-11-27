@@ -1,7 +1,7 @@
 {
-    "name": "ᴀʟᴏɴᴇ ᴄʜᴀᴛ ʙᴏᴛ",
+    "name": "KING CHAT BOT",
     "description": "ᴀ ғᴀsᴛᴇsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ with ᴘʏʀᴏɢʀᴀᴍ ɴ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",    
+    "logo": "https://telegra.ph/file/cbdba282f2f37c4ac6410.jpg",    
     "env": {
         "BOT_TOKEN": {
             "description": "ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏɴʟʏ",
