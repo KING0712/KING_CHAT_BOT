@@ -48,10 +48,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TeamAloneOp/AloneXChatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamAloneOp&repo=Alone&theme=chartreuse-dark"></a>
 
 
-<h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
-
-- [ᴀʟᴏɴᴇ ɢɪᴛʜᴜʙ](https://github.com/TeamAloneOp)
-- [ᴀʟᴏɴᴇ ᴄᴏᴅᴇʀ](https://t.me/HYPER_AD13)
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
